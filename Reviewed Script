@@ -124,4 +124,5 @@ reviewer adds suggestions for improving the model
 #I came up with an accuracy of 89%. The script looks good with the necessary aditions compared to the original task. 
 #I already knew a lot about the script because I had a look at it before when it didn't quite work. 
 # The construction of the script is good, but for an outsider it might not always be clear what is happening. 
-# Therefore you could add some extra comments. 
+# Therefore you could add some extra comments, so people know what is happening in the script.
+
